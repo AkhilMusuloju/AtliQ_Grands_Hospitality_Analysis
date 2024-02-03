@@ -1,6 +1,6 @@
 # AtliQ_Grands_Hospitality_Analysis
 
-Live _[Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMGZmOWU1ZmYtZGY5OS00YTVjLWFkZmQtOWQ4ODY1NzdlMWFhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)_
+Live _[Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYTFkZGE3NmYtYWVmYy00MjAzLTg1ZmUtZWQzODg3M2Q1NmU5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)_
 
 ## Problem statement
 
